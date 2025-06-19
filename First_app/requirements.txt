@@ -34,7 +34,6 @@ Kivy==2.3.1
 lazy-object-proxy==0.0.0
 MarkupSafe==3.0.2
 mccabe==0.7.0
-ninja @ file:///home/n0n3m4/Desktop/Pydroid/zBuildPrepared/ninja-1.12.1-py3-none-any.whl#sha256=369aa5ff36a1bbe7299b02cd6d67f2589e7fd3e3871303c13bafa62a87b5b4fc
 packaging==24.2
 parso==0.8.4
 passlib==1.7.4
